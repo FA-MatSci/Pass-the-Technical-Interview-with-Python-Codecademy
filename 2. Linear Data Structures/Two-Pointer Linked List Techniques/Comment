@@ -1,0 +1,5 @@
+You have a chain (nodes) and you are scanning from start and then at the defined point you again start scanning so you end up with the following:
+
+……………………start2……………………….start…………………
+
+Points are nodes.
