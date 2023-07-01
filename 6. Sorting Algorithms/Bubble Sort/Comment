@@ -1,0 +1,5 @@
+With this sorting algorithm you are swapping elements next to each other. You have a condition that verifies if an element next to it (adjacent) is bigger or smaller 
+and if it is bigger it changes their position and so on. So with first iteration you will get the biggest element to the end, 
+with next iteration you will get the second biggest element to the second position at the end (from right to left), etc.
+
+Here we have nested loops (2 loops). The first loop continues iterating when the second loop is finished.
