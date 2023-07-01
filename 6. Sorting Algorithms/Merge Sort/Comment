@@ -1,0 +1,5 @@
+Here you have 2 functions. First function repeatedly breaks down a list into smaller parts up to 1 element.
+
+The second function then merges the separated parts into a list based on conditions where the sizes are compared so you end up with a sorted list. 
+
+This is a divide and conquer algorithm.
