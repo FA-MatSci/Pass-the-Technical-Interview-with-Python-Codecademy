@@ -1,0 +1,4 @@
+You select an element randomly (pivot) and then divide the list into elements less than pivot and elements higher than pivot. 
+So you divide one array into two arrays. After you selected the pivot you perform comparison (conditional statement) and perform element swapping. 
+
+Then in each of these arrays you select a pivot element and repeat everything for this divided array. 
