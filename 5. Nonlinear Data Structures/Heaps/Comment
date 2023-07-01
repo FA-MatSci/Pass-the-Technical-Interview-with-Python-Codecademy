@@ -1,0 +1,22 @@
+You create a list with random numbers via list comprehension (the size of the list is defined in range().
+The list goes through methods in a class (conditions that define a heap), however the end result is a non size sorted list. 
+
+
+
+When you start calling the retrieve_min() function you start retrieving an element from the list. 
+The elements in a list are compared so that you step by step remove the smallest element in a list until you end up with a list that includes only None (like at the beginning).
+
+
+If you have a list with e.g. [None, 3, 4, 6, 70, 17, 28], it is not sorted. However it fulfills the heap criteria
+which is that the parent holds the min value and children have higher numbers (each node can have 2 children).
+
+						         3
+						        / \
+					         4    6
+					        / \   / 
+					       70 17 28
+
+
+You can use this approach for problems where you want to find the shortest path.
+
+
