@@ -1,0 +1,7 @@
+This is a searching algorithm. For this approach, values (numbers) in a list must be sorted from the lowest, to the highest. 
+
+You have a list, you identify the middle index, you compare with the target, and based on the comparison, you create a NEW list from the left of the list to the middle index 
+OR from the middle index+1 to the end. 
+
+
+If you use an algorithm with pointers you don’t create additional lists.
