@@ -1,0 +1,18 @@
+You create a tree (root at the top and it grows down). At the top you have a parent and from there you have children.
+
+
+
+					       parent
+				          /	\
+				         /	 \
+				    child_1   child_2
+				    /	\	     /	  \
+				   /	 \	  /	     \
+				  
+
+Then you traverse through conditions (which you set) in the traverse functions (you decide where to travel).
+
+You have a list where you store objects, created by instantiation.
+
+
+If you have data in a tree form then you can search through it.
