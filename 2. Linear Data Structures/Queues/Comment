@@ -1,0 +1,5 @@
+
+head_node……………………………tail_node
+
+Dots are nodes. Here you can add a node only to the tail and take a node only from the head.
+Imagine a queue where people are waiting for something.
