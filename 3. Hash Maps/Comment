@@ -1,0 +1,7 @@
+Here you work with key, value pairs.
+
+You are assigning a key, value pair or retrieving a value from a specified key.
+Use hash maps for projects where you have to store and retrieve data.
+
+There might be cases where you have a collision but then you use a strategy to avoid that.
+
