@@ -1,0 +1,20 @@
+You have a tree where nodes are instances of the root class.
+
+On the left side you are adding values lower than the root and on the right side, higher than the root.
+
+These are class values:
+
+						          15
+					          /     \
+					       10        50
+					      / \        / \   
+					    5   12      60 70
+
+The rule is that on the left side there is a value lower than the value one level above and on the right side higher.
+
+Looking from the root, left side will always contain values lower than the root and right side the higher ones.
+
+
+When you are searching for values, you start with the root and go down based on the conditions. 
+For traversing, the code is set so that you get a list of values from the lowest to the highest.
+
