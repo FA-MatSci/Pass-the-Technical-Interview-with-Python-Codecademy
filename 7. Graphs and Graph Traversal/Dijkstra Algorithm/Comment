@@ -1,0 +1,12 @@
+This algorithm computes the shortest distance from a given vertex to the rest of the vertices in a graph.
+
+For this algorithm, you compare distances for a given graph between each other until you get the smallest one. 
+In a graph, you need to have vertices and their weights (the distance or effort it takes to go from point A to B).
+
+				     (2)
+				    B - D
+				  / (4)  |
+				A        | (5)
+				  \ (2)  |
+				    C - E
+				     (1)
