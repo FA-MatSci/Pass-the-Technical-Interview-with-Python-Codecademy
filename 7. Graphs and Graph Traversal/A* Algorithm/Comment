@@ -1,0 +1,5 @@
+A* algorithm is a modification of Djikstra in a sense that it is more optimized. 
+It doesn’t look for every possible way that exist in a graph search (that’s why you include a target). That means that not every vertex is searched as opposed to Djikstra. 
+Here we add an estimated distance of each vertex to the goal vertex.
+
+Heuristic function estimates likely distance between a start and a target. 
