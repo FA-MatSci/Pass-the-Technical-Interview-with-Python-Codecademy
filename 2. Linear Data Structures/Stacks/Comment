@@ -1,0 +1,13 @@
+
+head_node……………………………
+
+Dots are nodes.
+You always remove nodes from the head_node and always add at the head_node.
+
+Example of adding:
+
+(head_node_added2)(head_node_added1)(head_node)……………
+
+Example of removing (let’s say you removed, head_node_added2). You end up with:
+
+(head_node_added1)(head_node)……………
