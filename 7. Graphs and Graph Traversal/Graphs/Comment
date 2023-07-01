@@ -1,0 +1,13 @@
+Here you create a graph, for instance:
+
+					          O
+				           / \
+				          O - O
+				          |
+				          O
+
+O represents a vertex where you store data. Connections between vertexes are called edges. 
+These are distances between them or how much effort it takes to go between the two. Vertexes can be directed (travel between them is restricted to a single direction) 
+or bi-directional (they can go both ways).
+
+You typically represent them by a dictionary.
