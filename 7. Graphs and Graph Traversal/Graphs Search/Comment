@@ -1,0 +1,8 @@
+After you have or have created a graph (see previous folder) you travel or search a graph. There are two common approaches, 
+depth-first search or breadth-first search. They work differently and you use them based on data that you have. 
+With these approaches you can search for a specific value that is in a node.
+
+During search you create a list of nodes where you have the ones that you have visited so that you don’t go to the same node twice. 
+
+
+One of the most typical applications of graph searches is to find the shortest distance between vertices.
