@@ -1,0 +1,4 @@
+Here you call a function within the same function. When the code reaches the call it will execute this new function call and once that is finished,
+it will continue with the line after the call.
+
+When you do iteration, you use a while loop, when you do a recursion you do a function call within the function.
