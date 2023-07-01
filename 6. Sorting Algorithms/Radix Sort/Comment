@@ -1,0 +1,5 @@
+You are sorting numbers by their digits. You start with the last digit of a number and sort them by their last digit. 
+Then you continue sorting by their second to the last digit and so on until you don’t get a sorted list of numbers.
+
+
+In this approach, no comparison between numbers is made. 
